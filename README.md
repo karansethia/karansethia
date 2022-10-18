@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karan Sethia</h1>
-<h3 align="center">A passionate Frontend Developer and Software Engineer and also a Freelancer in training from India</h3>
+<h3 align="center">A passionate Frontend Developer and Freelancer and also a Software Engineer in training from India</h3>
 
 
 <p align="left"> <a href="https://twitter.com/karansethia24" target="blank"><img src="https://img.shields.io/twitter/follow/karansethia24?logo=twitter&style=for-the-badge" alt="karansethia24" /></a> </p>
