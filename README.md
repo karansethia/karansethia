@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/karansethia24" target="blank"><img src="https://img.shields.io/twitter/follow/karansethia24?logo=twitter&style=for-the-badge" alt="karansethia24" /></a> </p>
 
-- 🔭 I’m currently working on [Expense Tracker](https://karansethia.github.io/React-Expense-Tracker/)
+- 🔭 My last React Project was [Expense Tracker](https://karansethia.github.io/React-Expense-Tracker/)
 
 - 🌱 I’m currently learning **React and Data Structures and Algorithms in Java**
 
