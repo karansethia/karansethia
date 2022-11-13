@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Karan Sethia</h1>
-<h3 align="center">A passionate Frontend Developer and Freelancer and also a Software Engineer in training from India</h3>
+<h3 align="center">A passionate Frontend Developer, Freelancer and also a Software Engineer in training from India</h3>
 
 
 <p align="left"> <a href="https://twitter.com/karansethia24" target="blank"><img src="https://img.shields.io/twitter/follow/karansethia24?logo=twitter&style=for-the-badge" alt="karansethia24" /></a> </p>
 
-- 🔭 My last React Project was [Expense Tracker](https://karansethia.github.io/React-Expense-Tracker/)
+- 🔭 My latest React Project was [Expense Tracker](https://karansethia.github.io/React-Expense-Tracker/)
 
 - 🌱 I’m currently learning **React and Data Structures and Algorithms in Java**
 
-- 💬 Ask me about **Javascript, React, Java**
+- 💬 Ask me about **Javascript, React, Java, Kotlin**
 
 - 📫 How to reach me **karansethia24@gmail.com**
 
