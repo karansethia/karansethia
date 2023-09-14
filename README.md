@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **karansethia24@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://karansethia.s1-tastewp.com/wp-content/uploads/2023/09/KaranSethia_Resume2023.pdf))
+- 📄 Know about my experiences [Resume](https://karansethia.s1-tastewp.com/wp-content/uploads/2023/09/KaranSethia_Resume2023.pdf)
 
 - ⚡ Fun fact **I like to play Basketball**
 
