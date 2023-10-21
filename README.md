@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karan Sethia</h1>
-<h3 align="center">A passionate Frontend Developer and Software Engineer in training from India</h3>
+<h3 align="center">A passionate Web Developer and Software Engineer in training from India</h3>
 
 - 🔭 I’m currently working on an open source project [NodeJS for Noobs](https://github.com/karansethia/NodeJS-for-Noobs)
 
