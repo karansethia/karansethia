@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Karan Sethia</h1>
-<h3 align="center">A passionate Web Developer and Software Engineer in training from India</h3>
+<h3 align="center">A passionate Web Developer and Software Engineer from India</h3>
 
 - 🔭 I’m currently working on an open source project [NodeJS for Noobs](https://github.com/karansethia/NodeJS-for-Noobs)
 
-- 🌱 I’m currently learning **Express and Data Structures and Algorithms in Java**
+- 🌱 I’m currently learning **NextJS and Data Structures and Algorithms in Java**
 
-- 💬 Ask me about **Javascript, React, Java**
+- 💬 Ask me about **Javascript, React, Java, NodeJS**
 
 - 📫 How to reach me **karansethia24@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://karansethia.s1-tastewp.com/wp-content/uploads/2023/09/KaranSethia_Resume2023.pdf)
+- 📄 Know about my experiences [Resume]([https://karansethia.s1-tastewp.com/wp-content/uploads/2023/09/KaranSethia_Resume2023.pdf](https://drive.google.com/file/d/1-piNkDu83XyB3jwzfCz5DJqeTehVjAhm/view?usp=sharing))
 
 - ⚡ Fun fact **I like to play Basketball**
 
