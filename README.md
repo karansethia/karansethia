@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Karan Sethia</h1>
 <h3 align="center">A passionate Web Developer and Software Engineer from India</h3>
 
-- 🔭 I’m currently working on an open source project [NodeJS for Noobs](https://github.com/karansethia/NodeJS-for-Noobs)
+- 🔭 I’m currently working on an open source project [Event Management](https://github.com/karansethia/NodeJS-for-Noobs)
 
-- 🌱 I’m currently learning **NextJS and Data Structures and Algorithms in Java**
+- 🌱 I’m currently learning **Java and Data Structures and Algorithms in Java**
 
-- 💬 Ask me about **Javascript, React, Java, NodeJS**
+- 💬 Ask me about **Javascript, React, Java, NodeJS, NextJS**
 
 - 📫 How to reach me **karansethia24@gmail.com**
 
