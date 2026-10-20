@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Karan Sethia</h1>
 <h3 align="center">A passionate Web Developer and Software Engineer from India</h3>
 
-- 🔭 I’m currently working on an open source project [Event Management](https://github.com/karansethia/event-management-app)
-
 - 🌱 I’m currently learning **GO
 
 - 💬 Ask me about **Javascript, React, Go, NodeJS, NextJS**
